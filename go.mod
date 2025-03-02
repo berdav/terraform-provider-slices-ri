@@ -1,4 +1,4 @@
-module terraform-provider-slices-ri
+module github.com/berdav/terraform-provider-slices-ri
 
 go 1.22.7
 
